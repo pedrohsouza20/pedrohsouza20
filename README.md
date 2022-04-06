@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! / Olá a todos!👋
 
 
 ### About me / Sobre mim
