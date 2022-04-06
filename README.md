@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
 
-## About me / Sobre mim
+### About me / Sobre mim
 
 - 🔭 I’m currently working Front-end projects...
 - 🌱 I’m currently learning learn Back-end...
